@@ -8,13 +8,13 @@ The goal of this project was to develop a statistical model to predict product d
 This solution moves beyond static pricing by incorporating critical market factors, offering an actionable, data-driven strategy for dynamic pricing.
 
 ## 📈 Key Findings & Business Impact
-The predictive model serves as a powerful pricing guide by enabling a deeper understanding of market drivers and forecasting potential sales.
+* The predictive model serves as a powerful pricing guide by enabling a deeper understanding of market drivers and forecasting potential sales.
 
-Multivariate Demand Forecasting: Created a multivariate regression model to accurately predict changes in unit_pricing based on a complex interplay of variables, including competitor prices (comp_1, comp_2, comp_3), and customer ratings.
+* Multivariate Demand Forecasting: Created a multivariate regression model to accurately predict changes in unit_pricing based on a complex interplay of variables, including competitor prices (comp_1, comp_2, comp_3), and customer ratings.
 
-Data-Driven Pricing Guidance: The model's predictive output can be used by pricing analysts to simulate revenue at various price points, providing an informed recommendation for a high-performing price.
+* Data-Driven Pricing Guidance: The model's predictive output can be used by pricing analysts to simulate revenue at various price points, providing an informed recommendation for a high-performing price.
 
-Competitor Influence: Provided a clear understanding of the impact of competitor pricing and customer ratings on unit sales.
+* Competitor Influence: Provided a clear understanding of the impact of competitor pricing and customer ratings on unit sales.
 
 ## 🛠️ Technical Capabilities & Stack
 This project demonstrates proficiency in the end-to-end data science lifecycle, from data ingestion to advanced statistical modeling.
